@@ -1,0 +1,601 @@
+id,Bundle id,Book name,Book id,is Premium,Bundle Name
+1,19,Decatur HI-Way Airfield,844710162-2,FALSE,ariddles24
+2,8,Hasvik Airport,438226157-0,FALSE,ngilderoyy
+3,18,Hammerfest Airport,406808092-5,TRUE,kbrandi0
+4,13,Xewkija Heliport,248344238-2,TRUE,bgariff3
+5,1,Amderma Airport,043778955-1,TRUE,ramorta
+6,18,Virginia Tech Montgomery Executive Airport,743918925-6,TRUE,kbrandi0
+7,5,Badu Island Airport,996338447-1,TRUE,lironl
+8,16,Zhukovsky International Airport,637484593-5,TRUE,cmeir1
+9,19,Rajahmundry Airport,534527516-5,TRUE,ariddles24
+10,13,Billy Bishop Toronto City Centre Airport,842753290-3,FALSE,bgariff3
+11,3,Agartala Airport,022883907-6,FALSE,msuthren6
+12,1,Yeniseysk Airport,984080306-9,TRUE,ramorta
+13,18,Columbus Lowndes County Airport,311838226-0,FALSE,kbrandi0
+14,11,Pattaya Airpark,334687370-6,FALSE,smccooked
+15,13,Ie Jima Airport,151388832-3,FALSE,bgariff3
+16,13,Aitape Airport,973060427-4,TRUE,bgariff3
+17,20,Talkeetna Airport,774742502-3,FALSE,rvickerstaffb
+18,11,Quetzalcóatl International Airport,396780716-9,FALSE,smccooked
+19,18,Ağrı Airport,072782946-7,FALSE,kbrandi0
+20,4,Mörön Airport,808662698-9,FALSE,jtonner2
+21,5,Kebar Airport,644152828-2,TRUE,lironl
+22,13,Mifflin County Airport,905975648-7,FALSE,bgariff3
+23,20,Diomício Freitas Airport,827294785-4,TRUE,rvickerstaffb
+24,1,Samana El Portillo Airport,609631262-4,FALSE,ramorta
+25,16,Enid Woodring Regional Airport,274702723-6,FALSE,cmeir1
+26,9,Daugavpils Intrenational Airport,899505253-8,TRUE,mgregoraceo
+27,5,Cuito Cuanavale Airport,126028796-3,FALSE,lironl
+28,5,José Celestino Mutis Airport,915805724-2,FALSE,lironl
+29,20,El Charco Airport,036016872-8,FALSE,rvickerstaffb
+30,17,Lavan Island Airport,626006405-5,FALSE,iiskow14
+31,8,Rockhampton Downs Airport,566160533-1,TRUE,ngilderoyy
+32,6,San Blas Airport,175124681-7,FALSE,rblint5
+33,15,Tefé Airport,789001380-9,FALSE,hflasby1v
+34,11,Voinjama Airport,234743077-7,FALSE,smccooked
+35,20,Wapenamanda Airport,367492136-7,TRUE,rvickerstaffb
+36,20,Raiatea Airport,887705000-4,FALSE,rvickerstaffb
+37,9,Lungi International Airport,714887223-5,TRUE,mgregoraceo
+38,6,Hughes Airport,017765209-8,TRUE,rblint5
+39,15,Dandugama Seaplane Base,631188088-1,TRUE,hflasby1v
+40,8,Vilyuisk Airport,704028064-7,FALSE,ngilderoyy
+41,18,Tambillos Airport,433390902-3,TRUE,kbrandi0
+42,5,Labo Airport,257558695-X,TRUE,lironl
+43,17,Namrole Airport,534942042-9,TRUE,iiskow14
+44,14,Assiut International Airport,813869898-5,TRUE,itubridy17
+45,7,Charata Airport,555521285-2,TRUE,jfreebornn
+46,12,Estevan Airport,437492380-2,FALSE,gmacgaughy4
+47,19,Mweka Airport,487013574-4,TRUE,ariddles24
+48,8,Urzhar Airport,550549326-2,TRUE,ngilderoyy
+49,10,Casco Cove Coast Guard Station,566426736-4,TRUE,sbalaisotf
+50,1,Aasiaat Airport,440251718-4,TRUE,ramorta
+51,5,Çiğli Airport,229370355-X,FALSE,lironl
+52,18,Salt Cay Airport,351140735-4,TRUE,kbrandi0
+53,17,Mc Allen Miller International Airport,717789822-0,FALSE,iiskow14
+54,2,Shahid Ashrafi Esfahani Airport,696819528-3,FALSE,aezzellt
+55,8,Alberto Alcolumbre Airport,636132226-2,FALSE,ngilderoyy
+56,18,Istanbul Airport,828379747-6,FALSE,kbrandi0
+57,10,São Sepé Airport,253675680-7,FALSE,sbalaisotf
+58,18,Chisana Airport,778492801-7,TRUE,kbrandi0
+59,6,Andes Airport,718241447-3,FALSE,rblint5
+60,9,Floyd Bennett Memorial Airport,769045716-9,FALSE,mgregoraceo
+61,7,Leitre Airport,444066387-7,TRUE,jfreebornn
+62,9,Atyrau Airport,452444457-2,FALSE,mgregoraceo
+63,17,Ras Al Khaimah International Airport,047668644-X,FALSE,iiskow14
+64,5,Comandante Ariston Pessoa Airport,756022525-X,FALSE,lironl
+65,19,Sharp County Regional Airport,551026267-2,FALSE,ariddles24
+66,17,Eil Airport,311863163-5,FALSE,iiskow14
+67,12,Pulkovo Airport,360779409-X,FALSE,gmacgaughy4
+68,11,Mongo Airport,636118730-6,FALSE,smccooked
+69,8,Cowell Airport,497200866-0,FALSE,ngilderoyy
+70,2,Málaga Airport,040814331-2,FALSE,aezzellt
+71,2,Corvo Airport,992703210-2,FALSE,aezzellt
+72,15,Coventry Airport,873748991-7,FALSE,hflasby1v
+73,7,Warton Airport,908514239-3,FALSE,jfreebornn
+74,15,Minhas Air Base,575514136-3,TRUE,hflasby1v
+75,6,Huntsville International Carl T Jones Field,770065324-0,FALSE,rblint5
+76,15,Powell River Airport,684415835-1,FALSE,hflasby1v
+77,9,Volta Grande Airport,912059980-3,TRUE,mgregoraceo
+78,11,Sepik Plains Airport,170854889-0,TRUE,smccooked
+79,13,Tarempa Airport,599781020-8,FALSE,bgariff3
+80,15,Armando Schwarck Airport,728321779-7,TRUE,hflasby1v
+81,2,Plastun Airport,634019999-2,TRUE,aezzellt
+82,6,Ar Horqin Airport,285971239-9,TRUE,rblint5
+83,7,Birmingham International Airport,035674846-4,TRUE,jfreebornn
+84,9,Chichester/Goodwood Airport,282732172-6,FALSE,mgregoraceo
+85,12,Lipetsk Airport,668143779-6,TRUE,gmacgaughy4
+86,7,Shiraz Shahid Dastghaib International Airport,376363146-1,TRUE,jfreebornn
+87,15,China Strait Airstrip,910916804-4,FALSE,hflasby1v
+88,17,Karato Airport,749990129-7,FALSE,iiskow14
+89,2,Alitak Seaplane Base,232067656-2,FALSE,aezzellt
+90,12,Yola Airport,920950018-0,TRUE,gmacgaughy4
+91,19,Juan Manuel Galvez International Airport,834675241-5,TRUE,ariddles24
+92,15,Chefornak Airport,010909042-X,TRUE,hflasby1v
+93,19,Umiat Airport,671644376-2,TRUE,ariddles24
+94,18,Dalby Airport,312300737-5,FALSE,kbrandi0
+95,1,Cahors-Lalbenque Airport,670685843-9,TRUE,ramorta
+96,8,Pope Field,619605653-0,TRUE,ngilderoyy
+97,6,Chacarita Airport,257107078-9,TRUE,rblint5
+98,6,Orange Walk Airport,320368925-1,TRUE,rblint5
+99,9,Ketchikan International Airport,537430144-6,TRUE,mgregoraceo
+100,7,Tiko Airport,709654275-2,TRUE,jfreebornn
+101,1,Palapye Airport,905028581-3,TRUE,ramorta
+102,10,Hagfors Airport,372917937-3,FALSE,sbalaisotf
+103,4,Cobar Airport,178562963-8,FALSE,jtonner2
+104,15,St Aubin Airport,689327834-9,TRUE,hflasby1v
+105,19,Gitega Airport,993803860-3,FALSE,ariddles24
+106,4,Nueva Loja Airport,814680636-8,TRUE,jtonner2
+107,5,Grand Lake Regional Airport,135000234-8,TRUE,lironl
+108,8,Liverpool John Lennon Airport,156160656-1,TRUE,ngilderoyy
+109,2,Zilfi Airport,751085094-0,FALSE,aezzellt
+110,12,Salalah Airport,582890270-9,FALSE,gmacgaughy4
+111,4,Piedmont Triad International Airport,752978241-X,TRUE,jtonner2
+112,9,Migalovo Air Base,711015017-8,FALSE,mgregoraceo
+113,7,Braunschweig-Wolfsburg Airport,782392506-0,FALSE,jfreebornn
+114,3,Elk City Regional Business Airport,970438247-2,TRUE,msuthren6
+115,20,Colorado Creek Airport,597151471-7,TRUE,rvickerstaffb
+116,16,Teruel Airport,852207241-8,FALSE,cmeir1
+117,2,Xangongo Airport,006168956-4,FALSE,aezzellt
+118,13,Punia Airport,236560810-8,FALSE,bgariff3
+119,2,Kanti Airport,729688446-0,TRUE,aezzellt
+120,19,Abengourou Airport,317013969-X,TRUE,ariddles24
+121,5,Mullewa Airport,513683363-7,FALSE,lironl
+122,18,"Harstad/Narvik Airport, Evenes",871780532-5,FALSE,kbrandi0
+123,2,Fergus Falls Municipal Airport - Einar Mickelson Field,316869015-5,FALSE,aezzellt
+124,20,Botopasi Airport,640571070-X,FALSE,rvickerstaffb
+125,11,Kemerovo Airport,641401069-3,TRUE,smccooked
+126,2,Tennant Creek Airport,383847588-7,TRUE,aezzellt
+127,7,Marin County Airport - Gnoss Field,709793698-3,TRUE,jfreebornn
+128,13,Herrera Airport,742157996-6,FALSE,bgariff3
+129,14,China Bay Airport,304431768-1,FALSE,itubridy17
+130,20,Las Cruces Airport,961762281-5,TRUE,rvickerstaffb
+131,15,Carta Airport,295626606-3,FALSE,hflasby1v
+132,2,Parsabade Moghan Airport,640647390-6,TRUE,aezzellt
+133,2,Nancy-Essey Airport,422444968-4,FALSE,aezzellt
+134,9,Jaluit Airport,781244133-4,TRUE,mgregoraceo
+135,18,Touat Cheikh Sidi Mohamed Belkebir Airport,151788600-7,FALSE,kbrandi0
+136,10,Bomai Airport,471351280-X,TRUE,sbalaisotf
+137,1,Nordholz Naval Airbase,074100834-3,FALSE,ramorta
+138,10,Karpathos Airport,608865809-6,FALSE,sbalaisotf
+139,16,Chetumal International Airport,700863817-5,TRUE,cmeir1
+140,2,Timbuktu Airport,158521006-4,FALSE,aezzellt
+141,13,Alashankou Bole (Bortala) airport,562340926-1,FALSE,bgariff3
+142,3,Igloolik Airport,532912185-X,FALSE,msuthren6
+143,11,Villa Reynolds Airport,206086802-5,TRUE,smccooked
+144,8,Taskul Airport,878166338-2,TRUE,ngilderoyy
+145,4,Douglas Municipal Airport,893425976-0,FALSE,jtonner2
+146,9,Koumala Airport,527379583-4,TRUE,mgregoraceo
+147,16,Guangyuan Airport,017857759-6,FALSE,cmeir1
+148,19,Dimapur Airport,918584962-6,FALSE,ariddles24
+149,20,Tom Price Airport,278133454-5,FALSE,rvickerstaffb
+150,11,Manakara Airport,498059529-4,FALSE,smccooked
+151,15,Antrim County Airport,390758578-X,FALSE,hflasby1v
+152,9,Nanded Airport,570756188-9,FALSE,mgregoraceo
+153,10,Jijel Ferhat Abbas Airport,162525329-X,TRUE,sbalaisotf
+154,9,Jalalabad Airport,110297904-X,TRUE,mgregoraceo
+155,11,Concord Municipal Airport,935504744-4,TRUE,smccooked
+156,15,Gilze Rijen Air Base,174307316-X,TRUE,hflasby1v
+157,19,Negril Airport,855160482-1,FALSE,ariddles24
+158,19,Lviv International Airport,258485800-2,FALSE,ariddles24
+159,9,Tobago-Crown Point Airport,860188803-8,TRUE,mgregoraceo
+160,6,Mutare Airport,527079857-3,TRUE,rblint5
+161,2,Lutselk'e Airport,677785253-0,FALSE,aezzellt
+162,8,Decatur Shores Airport,868661791-3,FALSE,ngilderoyy
+163,7,Burke Lakefront Airport,716268498-X,FALSE,jfreebornn
+164,18,Sitkinak Airport,635228512-0,FALSE,kbrandi0
+165,19,Lago Argentino Airport,033061806-7,TRUE,ariddles24
+166,6,Camaxilo Airport,169463708-5,TRUE,rblint5
+167,18,Herendeen Bay Airport,069114444-3,FALSE,kbrandi0
+168,13,Warracknabeal Airport,111745959-4,FALSE,bgariff3
+169,1,Captain Rogelio Castillo National Airport,164079612-6,FALSE,ramorta
+170,6,Merrill Field,694218524-8,TRUE,rblint5
+171,16,Pope Field,632063785-4,TRUE,cmeir1
+172,15,Santa Maria da Vitória Airport,181776782-8,FALSE,hflasby1v
+173,5,Lucapa Airport,190221679-2,FALSE,lironl
+174,17,Pingtung North Airport,091860176-2,FALSE,iiskow14
+175,4,Storuman Airport,988428445-8,TRUE,jtonner2
+176,18,Albert Lea Municipal Airport,084430824-2,FALSE,kbrandi0
+177,11,Fort St John Airport,938671062-5,TRUE,smccooked
+178,15,Avalon Airport,418151276-2,TRUE,hflasby1v
+179,15,Tôlanaro Airport,827609930-0,FALSE,hflasby1v
+180,2,Zhezkazgan Airport,794843468-2,TRUE,aezzellt
+181,17,Bakkafjörður Airport,495520362-0,TRUE,iiskow14
+182,4,Upiara Airport,989547549-7,FALSE,jtonner2
+183,1,Abeche Airport,389275899-9,FALSE,ramorta
+184,19,Tradewind Airport,300595160-X,TRUE,ariddles24
+185,2,Deception Airport,238124007-1,FALSE,aezzellt
+186,13,Tabiteuea North Airport,064585235-X,FALSE,bgariff3
+187,3,Waukesha County Airport,816943060-7,TRUE,msuthren6
+188,17,Yichun Mingyueshan Airport,078184603-X,TRUE,iiskow14
+189,13,Nukutepipi Airport,088201185-5,TRUE,bgariff3
+190,14,Destin Executive Airport,782609962-5,FALSE,itubridy17
+191,3,Naukati Bay Seaplane Base,236985141-4,TRUE,msuthren6
+192,9,El Petén Airport,294197129-7,TRUE,mgregoraceo
+193,2,Bazaruto Island Airport,292999532-7,FALSE,aezzellt
+194,18,Northern Maine Regional Airport at Presque Isle,252644567-1,FALSE,kbrandi0
+195,16,Dr. Antonio Nicolás Briceño Airport,541625252-9,TRUE,cmeir1
+196,12,Kandi Airport,948995124-2,TRUE,gmacgaughy4
+197,15,"Oesman Sadik Airport, Labuha",845703052-3,FALSE,hflasby1v
+198,10,Montrose Regional Airport,955361247-4,TRUE,sbalaisotf
+199,3,Playa Baracoa Airport,521271786-8,TRUE,msuthren6
+200,14,Eindhoven Airport,495541045-6,TRUE,itubridy17
+201,5,Pescara International Airport,371008119-X,TRUE,lironl
+202,19,Orapa Airport,119457424-6,TRUE,ariddles24
+203,8,El Recreo Airport,323511030-5,FALSE,ngilderoyy
+204,16,Ulanqab Jining Airport,765054646-2,TRUE,cmeir1
+205,4,Grise Fiord Airport,696792399-4,FALSE,jtonner2
+206,20,Weifang Airport,513389492-9,FALSE,rvickerstaffb
+207,20,Deer Park Airport,333716010-7,TRUE,rvickerstaffb
+208,9,Mucuri Airport,118716500-X,TRUE,mgregoraceo
+209,15,Colinas Airport,513686924-0,FALSE,hflasby1v
+210,6,Mary River Aerodrome,288129388-3,TRUE,rblint5
+211,5,Frieda River Airport,926275758-1,FALSE,lironl
+212,10,Nhon Co Airfield,991946519-4,TRUE,sbalaisotf
+213,11,Sheridan County Airport,675118339-9,FALSE,smccooked
+214,1,Secunda Airport,852164337-3,TRUE,ramorta
+215,11,Grantsburg Municipal Airport,240196881-4,TRUE,smccooked
+216,3,Khajuraho Airport,569445937-7,TRUE,msuthren6
+217,3,Portland Troutdale Airport,981995819-9,FALSE,msuthren6
+218,19,Trunojoyo Airport,762316048-6,FALSE,ariddles24
+219,8,Negele Airport,267299134-0,TRUE,ngilderoyy
+220,15,Bamu Airport,414343169-6,FALSE,hflasby1v
+221,17,Kerman Airport,355472149-2,TRUE,iiskow14
+222,3,Wewak International Airport,701174992-6,TRUE,msuthren6
+223,18,Magas Airport,244193612-3,TRUE,kbrandi0
+224,11,Morombe Airport,379791013-4,TRUE,smccooked
+225,15,Needles Airport,072546879-3,TRUE,hflasby1v
+226,12,Vila Bela da Santíssima Trindade Airport,934733257-7,TRUE,gmacgaughy4
+227,5,Lai Airport,658621230-8,TRUE,lironl
+228,6,Eagle Airport,799718297-7,TRUE,rblint5
+229,14,Manti-Ephraim Airport,007032702-5,FALSE,itubridy17
+230,6,Abresso Airport,079459642-8,FALSE,rblint5
+231,8,El Centro NAF Airport (Vraciu Field),521797786-8,FALSE,ngilderoyy
+232,13,Center Island Airport,123642854-4,FALSE,bgariff3
+233,8,Bom Jesus da Lapa Airport,842718185-X,FALSE,ngilderoyy
+234,13,Mount Sanford Station Airport,913774117-9,FALSE,bgariff3
+235,1,University Park Airport,135421400-5,TRUE,ramorta
+236,7,Bucholz Army Air Field,614112619-7,TRUE,jfreebornn
+237,14,Noshahr Airport,435143523-2,TRUE,itubridy17
+238,7,El Tajín National Airport,980841279-3,FALSE,jfreebornn
+239,9,Courchevel Airport,421347141-1,TRUE,mgregoraceo
+240,3,Dunk Island Airport,606332267-1,FALSE,msuthren6
+241,3,Badajoz Airport,533960178-1,FALSE,msuthren6
+242,11,Pangborn Memorial Airport,928699795-7,FALSE,smccooked
+243,1,Williamson County Regional Airport,418361734-0,TRUE,ramorta
+244,19,Kitale Airport,766908882-6,TRUE,ariddles24
+245,4,Bachigualato Federal International Airport,003898980-8,TRUE,jtonner2
+246,9,Colon Airport,825135817-5,FALSE,mgregoraceo
+247,12,Hotan Airport,492671564-3,FALSE,gmacgaughy4
+248,14,Chinchilla Airport,930862654-9,FALSE,itubridy17
+249,19,Alexandra Airport,593760590-X,FALSE,ariddles24
+250,14,Keglsugl Airport,668048993-8,FALSE,itubridy17
+251,15,Flin Flon Airport,514047126-4,FALSE,hflasby1v
+252,13,Kingfisher Lake Airport,544011535-8,FALSE,bgariff3
+253,20,Gove Airport,445927784-0,TRUE,rvickerstaffb
+254,18,Tumolbil Airport,997917969-4,TRUE,kbrandi0
+255,15,Friedrichshafen Airport,882044477-1,TRUE,hflasby1v
+256,4,Zephyrhills Municipal Airport,964931298-6,FALSE,jtonner2
+257,3,Senadora Eunice Micheles Airport,056029278-3,FALSE,msuthren6
+258,3,Ford Airport,467831600-0,FALSE,msuthren6
+259,8,Earl Henry Airport,387330740-5,TRUE,ngilderoyy
+260,1,Portland Troutdale Airport,372988115-9,FALSE,ramorta
+261,1,Bachigualato Federal International Airport,502926619-4,FALSE,ramorta
+262,2,Omidiyeh Airport,111910720-2,FALSE,aezzellt
+263,2,Fairfield Municipal Airport,693364536-3,TRUE,aezzellt
+264,13,Tucupita Airport,706813623-0,FALSE,bgariff3
+265,1,La Guaira Airport,626474732-7,TRUE,ramorta
+266,8,Hachinohe Airport,450725300-4,TRUE,ngilderoyy
+267,18,Stanton Airfield,687069581-4,FALSE,kbrandi0
+268,4,Madison Municipal Airport,038051503-2,TRUE,jtonner2
+269,12,Makini Airport,478081574-6,FALSE,gmacgaughy4
+270,18,Cape Rodney Airport,528072938-8,TRUE,kbrandi0
+271,3,Savusavu Airport,089436340-9,FALSE,msuthren6
+272,14,Xieng Khouang Airport,211490603-5,TRUE,itubridy17
+273,3,San Nicolas De Bari Airport,566690656-9,TRUE,msuthren6
+274,12,Ilam Airport,739937727-8,TRUE,gmacgaughy4
+275,19,Kananga Airport,636018248-3,FALSE,ariddles24
+276,20,Mariupol International Airport,948032474-1,TRUE,rvickerstaffb
+277,19,Abel Santamaria Airport,955611360-6,FALSE,ariddles24
+278,7,Ogoki Post Airport,659828445-7,TRUE,jfreebornn
+279,12,Tampa International Airport,644950285-1,TRUE,gmacgaughy4
+280,8,Kohat Airport,236310496-X,FALSE,ngilderoyy
+281,12,Sierra Blanca Regional Airport,985583041-5,TRUE,gmacgaughy4
+282,15,Taipei Songshan Airport,634499984-5,FALSE,hflasby1v
+283,8,Charlotte Amalie Harbor Seaplane Base,273645593-2,TRUE,ngilderoyy
+284,19,Tampa North Aero Park Airport,010962579-X,TRUE,ariddles24
+285,7,Roti Airport,049017736-0,TRUE,jfreebornn
+286,5,Ralph C Weiser Field,676267087-3,TRUE,lironl
+287,17,Taitung Airport,320482809-3,TRUE,iiskow14
+288,8,Marla Airport,772186825-4,TRUE,ngilderoyy
+289,16,Ascona Airport,400096801-7,TRUE,cmeir1
+290,1,Nervino Airport,632413040-1,TRUE,ramorta
+291,12,Xingcheng Air Base,116897519-0,TRUE,gmacgaughy4
+292,3,Ørland Airport,618829719-2,TRUE,msuthren6
+293,10,Daugavpils Intrenational Airport,372238691-8,TRUE,sbalaisotf
+294,11,Lake Tahoe Airport,773727501-0,TRUE,smccooked
+295,6,Arutua Airport,587021416-5,TRUE,rblint5
+296,16,Wiluna Airport,664509823-5,TRUE,cmeir1
+297,18,New Coalinga Municipal Airport,190403616-3,FALSE,kbrandi0
+298,17,Marmul Airport,089041577-3,FALSE,iiskow14
+299,10,Waverney Airport,247996455-8,FALSE,sbalaisotf
+300,18,Capital International Airport,017359142-6,FALSE,kbrandi0
+301,1,Capurganá Airport,976089494-7,FALSE,ramorta
+302,8,Santa Rosalia Airport,839379123-5,TRUE,ngilderoyy
+303,3,Bojnord Airport,363170062-8,TRUE,msuthren6
+304,9,Houlton International Airport,052748780-5,TRUE,mgregoraceo
+305,17,Xinyuan Nalati Airport,752676379-1,TRUE,iiskow14
+306,2,Kirkenes Airport (Høybuktmoen),043702842-9,TRUE,aezzellt
+307,1,Xinyuan Nalati Airport,263728430-7,FALSE,ramorta
+308,17,Nzérékoré Airport,934904074-3,FALSE,iiskow14
+309,2,Ovda International Airport,498302599-5,FALSE,aezzellt
+310,8,Amook Bay Seaplane Base,547244289-3,TRUE,ngilderoyy
+311,9,Elelim Airport,253003012-X,TRUE,mgregoraceo
+312,11,Imperial Municipal Airport,068142731-0,TRUE,smccooked
+313,9,Itaqui Airport,968987311-3,FALSE,mgregoraceo
+314,7,EL Real Airport,366795211-2,FALSE,jfreebornn
+315,15,Gusti Syamsir Alam Airport,325606208-3,TRUE,hflasby1v
+316,12,Geladi Airport,002973673-0,FALSE,gmacgaughy4
+317,10,Kisimayu Airport,267710756-2,FALSE,sbalaisotf
+318,18,Sub Teniente Nestor Arias Airport,546950807-2,FALSE,kbrandi0
+319,14,Vaasa Airport,471209287-4,TRUE,itubridy17
+320,5,Altiport L'Alpe d'Huez - Henri GIRAUD,259706811-0,FALSE,lironl
+321,20,Port Said Airport,286079391-7,FALSE,rvickerstaffb
+322,5,Arba Minch Airport,359734355-4,TRUE,lironl
+323,12,Leinster Airport,715242767-4,TRUE,gmacgaughy4
+324,14,Kambuaya Airport,285830119-0,TRUE,itubridy17
+325,2,Derim Airport,503147161-1,TRUE,aezzellt
+326,16,Loring International Airport,008605798-7,FALSE,cmeir1
+327,12,Virgin Gorda Airport,118117744-8,FALSE,gmacgaughy4
+328,11,Orlando International Airport,756025846-8,FALSE,smccooked
+329,19,Cupul Airport,574466014-3,TRUE,ariddles24
+330,10,Lubbock Preston Smith International Airport,297339465-1,TRUE,sbalaisotf
+331,14,Hannover Airport,681977737-X,FALSE,itubridy17
+332,18,Biarritz-Anglet-Bayonne Airport,541509203-X,TRUE,kbrandi0
+333,3,Wipim Airport,614870208-8,TRUE,msuthren6
+334,20,General E. Mosconi Airport,190984932-4,FALSE,rvickerstaffb
+335,1,Agnew Airport,677975642-3,FALSE,ramorta
+336,20,Touat Cheikh Sidi Mohamed Belkebir Airport,357296622-1,TRUE,rvickerstaffb
+337,9,Aldan Airport,280932515-4,FALSE,mgregoraceo
+338,11,Carutapera Airport,569284621-7,FALSE,smccooked
+339,2,Margaret Ekpo International Airport,702282894-6,TRUE,aezzellt
+340,19,Ulithi Airport,753480763-8,FALSE,ariddles24
+341,10,Saumlaki/Olilit Airport,008038544-3,FALSE,sbalaisotf
+342,1,Ivanovo South Airport,239045792-4,FALSE,ramorta
+343,10,Izhevsk Airport,630875114-6,FALSE,sbalaisotf
+344,7,Treinta y Tres Airport,190313350-5,TRUE,jfreebornn
+345,3,Baglung Airport,106562322-4,FALSE,msuthren6
+346,2,Trabzon International Airport,555505483-1,FALSE,aezzellt
+347,12,Ekwok Airport,289047313-9,FALSE,gmacgaughy4
+348,7,Chetumal International Airport,422034662-7,TRUE,jfreebornn
+349,17,Arapoti Airport,849843271-5,FALSE,iiskow14
+350,8,Bergerac-Roumanière Airport,002725954-4,TRUE,ngilderoyy
+351,15,Margaret River (Station) Airport,296480778-7,TRUE,hflasby1v
+352,6,Chiayi Airport,145124299-9,FALSE,rblint5
+353,17,Selfs Airport,784262023-7,FALSE,iiskow14
+354,13,Rawalakot Airport,125270271-X,TRUE,bgariff3
+355,11,Iginniarfik,833274210-2,TRUE,smccooked
+356,20,Al Ghaidah International Airport,345681136-5,FALSE,rvickerstaffb
+357,7,Governador Jorge Teixeira de Oliveira Airport,577687898-5,FALSE,jfreebornn
+358,4,Cologne Bonn Airport,034492742-3,FALSE,jtonner2
+359,7,Buffalo Range Airport,881955127-6,TRUE,jfreebornn
+360,17,China Bay Airport,949769817-8,TRUE,iiskow14
+361,19,Mc Clellan Airfield,466287014-3,FALSE,ariddles24
+362,16,Monkira Airport,746194368-5,TRUE,cmeir1
+363,16,Lake Murray Airport,643893424-0,FALSE,cmeir1
+364,17,Mário Pereira Lopes–São Carlos Airport,429265765-3,TRUE,iiskow14
+365,6,Agaun Airport,567213687-7,FALSE,rblint5
+366,10,Turkmenbashi Airport,657848878-2,TRUE,sbalaisotf
+367,13,St Louis Regional Airport,209076914-9,TRUE,bgariff3
+368,17,Monaco Heliport,830579438-5,FALSE,iiskow14
+369,2,Melangguane Airport,164071795-1,FALSE,aezzellt
+370,16,Glenormiston Airport,336165138-7,TRUE,cmeir1
+371,12,Ouvéa Airport,588076853-8,FALSE,gmacgaughy4
+372,17,Abel Santamaria Airport,065249739-X,TRUE,iiskow14
+373,17,Santa Paula Airport,241911656-9,FALSE,iiskow14
+374,11,Yotvata Airfield,826572272-9,FALSE,smccooked
+375,6,Mkambati Airport,330822463-1,TRUE,rblint5
+376,11,San Ignacio Airport,869466067-9,FALSE,smccooked
+377,19,Nueva Loja Airport,390784629-X,FALSE,ariddles24
+378,14,Kirkuk Air Base,459102975-1,FALSE,itubridy17
+379,6,Friedrichshafen Airport,886904142-5,FALSE,rblint5
+380,16,Fazenda Bela Vista Airport,181605272-8,TRUE,cmeir1
+381,8,Yingkou Lanqi Airport,418947745-1,FALSE,ngilderoyy
+382,16,Ein Yahav Airfield,365911743-9,FALSE,cmeir1
+383,14,Vila Bela da Santíssima Trindade Airport,801370290-1,FALSE,itubridy17
+384,20,Birch Creek Airport,031298074-4,FALSE,rvickerstaffb
+385,1,Blanding Municipal Airport,549885255-X,TRUE,ramorta
+386,9,Murod Kond Airport,310976198-X,FALSE,mgregoraceo
+387,9,Teniente Av. Jorge Henrich Arauz Airport,929351811-2,TRUE,mgregoraceo
+388,10,Murrin Murrin Airport,260916961-2,TRUE,sbalaisotf
+389,4,Copán Ruinas Airport,536152772-6,TRUE,jtonner2
+390,10,Heglig Airport,569859966-1,FALSE,sbalaisotf
+391,5,Pamplona Airport,824202334-4,FALSE,lironl
+392,17,Rio Paranaíba Airport,697130461-6,FALSE,iiskow14
+393,16,Lomé-Tokoin Airport,361731210-1,TRUE,cmeir1
+394,8,"Wellsville Municipal Arpt,Tarantine Field",563006332-4,TRUE,ngilderoyy
+395,15,Puerto Escondido International Airport,686989496-5,TRUE,hflasby1v
+396,14,Bear Creek 3 Airport,260657961-5,TRUE,itubridy17
+397,20,Paratebueno Airport,789074248-7,TRUE,rvickerstaffb
+398,2,Waimea Kohala Airport,158242725-9,FALSE,aezzellt
+399,12,"Terre Haute Regional Airport, Hulman Field",738899637-0,TRUE,gmacgaughy4
+400,19,Cape Cod Coast Guard Air Station,479998950-2,TRUE,ariddles24
+401,17,Blosser Municipal Airport,121730610-2,TRUE,iiskow14
+402,14,Kohat Airport,537942233-0,FALSE,itubridy17
+403,6,Shalz Field,629563150-9,TRUE,rblint5
+404,17,Paderborn Lippstadt Airport,187047687-5,TRUE,iiskow14
+405,11,Lava Falls Heliport,070388853-6,TRUE,smccooked
+406,4,Khatanga Airport,838959288-6,FALSE,jtonner2
+407,9,Monmouth Executive Airport,604190485-6,TRUE,mgregoraceo
+408,15,Alma Airport,737927395-7,FALSE,hflasby1v
+409,6,Albacete-Los Llanos Airport,803423631-4,FALSE,rblint5
+410,16,Colinas Airport,322034524-7,FALSE,cmeir1
+411,15,Tanna Airport,814832199-X,FALSE,hflasby1v
+412,20,Brønnøysund Airport,491077079-8,TRUE,rvickerstaffb
+413,14,Kamiraba Airport,481831307-6,FALSE,itubridy17
+414,20,Lipetsk Airport,311843841-X,TRUE,rvickerstaffb
+415,8,Fullerton Municipal Airport,654884790-3,FALSE,ngilderoyy
+416,7,Bella Coola Airport,540740053-7,TRUE,jfreebornn
+417,1,Wuhan Tianhe International Airport,523668825-6,FALSE,ramorta
+418,7,Yuncheng Guangong Airport,960585413-9,TRUE,jfreebornn
+419,14,Maroantsetra Airport,057382645-5,TRUE,itubridy17
+420,18,Corazón de Jesús Airport,021057101-2,FALSE,kbrandi0
+421,13,Papa Stour Airport,638814169-2,FALSE,bgariff3
+422,9,Prince Albert Glass Field,230804295-8,FALSE,mgregoraceo
+423,12,Lalibella Airport,111290623-1,FALSE,gmacgaughy4
+424,18,Minneapolis-St Paul International/Wold-Chamberlain Airport,779903955-8,TRUE,kbrandi0
+425,18,Silgadi Doti Airport,614592821-2,TRUE,kbrandi0
+426,6,Kuching International Airport,201821395-4,TRUE,rblint5
+427,15,Havadarya Airport,005555806-2,TRUE,hflasby1v
+428,9,Fazenda Constância Airport,686973776-2,TRUE,mgregoraceo
+429,10,Alberto Lleras Camargo Airport,226448993-6,TRUE,sbalaisotf
+430,18,Doris Lake,964309287-9,FALSE,kbrandi0
+431,4,Coral Harbour Airport,748949119-3,TRUE,jtonner2
+432,5,Montague-Yreka Rohrer Field,941735499-X,TRUE,lironl
+433,8,Rotorua Regional Airport,186212303-9,FALSE,ngilderoyy
+434,4,Ngari Gunsa Airport,079909479-X,FALSE,jtonner2
+435,16,Pulkovo Airport,111915750-1,TRUE,cmeir1
+436,19,Newport News Williamsburg International Airport,129730177-3,TRUE,ariddles24
+437,4,New Cametá Airport,906802766-2,TRUE,jtonner2
+438,8,Port Meadville Airport,534751270-9,TRUE,ngilderoyy
+439,4,Babanakira Airport,284855812-1,FALSE,jtonner2
+440,15,Vermilion Regional Airport,626716605-8,TRUE,hflasby1v
+441,5,Kasenga Airport,552375322-X,FALSE,lironl
+442,13,Maverick County Memorial International Airport,116919485-0,TRUE,bgariff3
+443,13,Keningau Airport,354387817-4,TRUE,bgariff3
+444,9,Cowarie Airport,221254843-5,FALSE,mgregoraceo
+445,18,Hoedspruit Air Force Base Airport,332078086-7,TRUE,kbrandi0
+446,17,Santa Maria Airport,023868442-3,TRUE,iiskow14
+447,19,Oram Airport,531418701-9,FALSE,ariddles24
+448,12,Nyurba Airport,621657290-3,TRUE,gmacgaughy4
+449,17,Gogebic Iron County Airport,599600648-0,TRUE,iiskow14
+450,9,Kaohsiung International Airport,126991343-3,FALSE,mgregoraceo
+451,15,Bouarfa Airport,439193086-2,FALSE,hflasby1v
+452,18,Bellingham International Airport,553940419-X,TRUE,kbrandi0
+453,8,Athen Helenikon Airport,898027528-5,TRUE,ngilderoyy
+454,1,Saidor Airport,371640947-2,TRUE,ramorta
+455,16,Sundsvall-Härnösand Airport,823518018-9,TRUE,cmeir1
+456,6,Amahai Airport,856081021-8,FALSE,rblint5
+457,16,Treasure Cay Airport,289824586-0,FALSE,cmeir1
+458,7,Niagara Falls International Airport,804050844-4,TRUE,jfreebornn
+459,19,Teniente Rodolfo Marsh Martin Base,751297224-5,FALSE,ariddles24
+460,15,Ngot Nzoungou Airport,786618632-4,TRUE,hflasby1v
+461,12,Angel Fire Airport,475712287-X,FALSE,gmacgaughy4
+462,2,Gassim Airport,450794223-3,FALSE,aezzellt
+463,9,El Dorado Airport,648893435-X,FALSE,mgregoraceo
+464,16,Saipan International Airport,387640724-9,TRUE,cmeir1
+465,4,Mount Swan Airport,167440389-5,TRUE,jtonner2
+466,9,Northwest Florida Beaches International Airport,827996330-8,FALSE,mgregoraceo
+467,20,Ordu Giresun Airport,245199602-1,FALSE,rvickerstaffb
+468,1,Montepuez Airport,043588900-1,FALSE,ramorta
+469,1,Asmara International Airport,213203466-4,FALSE,ramorta
+470,3,Great Keppel Is Airport,184130260-0,FALSE,msuthren6
+471,20,Chilko Lake (Tsylos Park Lodge) Airport,897342201-4,FALSE,rvickerstaffb
+472,10,Las Vegas Airport,882256802-8,TRUE,sbalaisotf
+473,2,Hunter Army Air Field,790435298-2,TRUE,aezzellt
+474,3,Echuca Airport,203832504-9,TRUE,msuthren6
+475,18,Kemi-Tornio Airport,690536248-4,TRUE,kbrandi0
+476,11,Keisah Airport,482696421-8,TRUE,smccooked
+477,1,Page Municipal Airport,244490193-2,FALSE,ramorta
+478,20,Bembridge Airport,773700272-3,TRUE,rvickerstaffb
+479,8,Greeley–Weld County Airport,186885951-7,FALSE,ngilderoyy
+480,8,Hwange National Park Airport,852646293-8,TRUE,ngilderoyy
+481,5,Touho Airport,175035581-7,FALSE,lironl
+482,10,Salerno Landing Zone Airport,905801527-0,FALSE,sbalaisotf
+483,15,Hewanorra International Airport,816925647-X,TRUE,hflasby1v
+484,8,Changzhou Benniu Airport,302344107-3,FALSE,ngilderoyy
+485,12,Pukatawagan Airport,281062198-5,TRUE,gmacgaughy4
+486,13,Gregorio Luperon International Airport,364418396-1,TRUE,bgariff3
+487,19,El Arish International Airport,765809029-8,FALSE,ariddles24
+488,7,Fairmont Hot Springs Airport,597936943-0,FALSE,jfreebornn
+489,17,Scott AFB/Midamerica Airport,664046881-6,TRUE,iiskow14
+490,15,Currais Novos Airport,032051809-4,TRUE,hflasby1v
+491,12,Sievierodonetsk Airport,848208851-3,FALSE,gmacgaughy4
+492,4,Fada N'gourma Airport,407123016-9,TRUE,jtonner2
+493,14,Kariba International Airport,331676779-7,FALSE,itubridy17
+494,8,Los Perales Airport,853972550-9,TRUE,ngilderoyy
+495,20,Kapuskasing Airport,769515402-4,FALSE,rvickerstaffb
+496,10,Canyonlands Field,901431736-0,FALSE,sbalaisotf
+497,20,Ellison Onizuka Kona International At Keahole Airport,301245651-1,FALSE,rvickerstaffb
+498,13,Malanje Airport,111788015-X,FALSE,bgariff3
+499,6,Jorge Wilsterman International Airport,702841588-0,TRUE,rblint5
+500,4,Lerwick / Tingwall Airport,878461490-0,FALSE,jtonner2
+501,16,Kishangarh Airport,334073339-2,TRUE,cmeir1
+502,5,Milyakburra Airport,694487018-5,TRUE,lironl
+503,16,Burns Municipal Airport,994055722-1,FALSE,cmeir1
+504,10,Supadio Airport,695477531-2,TRUE,sbalaisotf
+505,7,Borlange Airport,658350848-6,TRUE,jfreebornn
+506,4,Hyder Seaplane Base,597922365-7,FALSE,jtonner2
+507,12,Columbia County Airport,534435189-5,TRUE,gmacgaughy4
+508,8,Nusawiru Airport,477541385-6,FALSE,ngilderoyy
+509,16,Piedmont Triad International Airport,160979306-4,FALSE,cmeir1
+510,3,Banja Luka International Airport,675212788-3,TRUE,msuthren6
+511,14,Punta Colorada Airport,970346598-6,TRUE,itubridy17
+512,11,Kansas City International Airport,243899196-8,TRUE,smccooked
+513,10,Terre-de-Haut Airport,434625738-0,FALSE,sbalaisotf
+514,5,Oram Airport,268276454-1,FALSE,lironl
+515,18,Rar Gwamar Airport,462486536-7,TRUE,kbrandi0
+516,16,Imphal Airport,134260640-X,TRUE,cmeir1
+517,2,Palo Alto Airport of Santa Clara County,605164779-1,FALSE,aezzellt
+518,20,N'Djamena International Airport,443750573-5,FALSE,rvickerstaffb
+519,11,Jining Qufu Airport,417824266-0,TRUE,smccooked
+520,1,Cape Newenham LRRS Airport,293861624-4,TRUE,ramorta
+521,1,Maumere(Wai Oti) Airport,070751563-7,FALSE,ramorta
+522,11,Juvenal Loureiro Cardoso Airport,820559468-6,FALSE,smccooked
+523,13,Nadi International Airport,601449313-1,FALSE,bgariff3
+524,5,Zhijiang Airport,706862481-2,FALSE,lironl
+525,4,Frans Kaisiepo Airport,519242816-5,FALSE,jtonner2
+526,13,Naha Airport,870711954-2,FALSE,bgariff3
+527,4,Fitzroy Crossing Airport,799914605-6,FALSE,jtonner2
+528,9,Havadarya Airport,316720047-2,FALSE,mgregoraceo
+529,6,Moulay Ali Cherif Airport,876173679-1,FALSE,rblint5
+530,8,Whistler/Green Lake Water Aerodrome,057156793-2,TRUE,ngilderoyy
+531,16,Priština International Airport,643215108-2,FALSE,cmeir1
+532,14,Buffalo Range Airport,035472189-5,TRUE,itubridy17
+533,2,Polgolla Reservoir Seaplane Base,510523402-2,TRUE,aezzellt
+534,20,Boulder Municipal Airport,148605797-7,TRUE,rvickerstaffb
+535,9,Majkin Airport,711888056-6,FALSE,mgregoraceo
+536,15,Dominique Edward Osok Airport,077869246-9,TRUE,hflasby1v
+537,15,Djúpivogur Airport,755442755-5,TRUE,hflasby1v
+538,6,Albert J Ellis Airport,028755007-9,TRUE,rblint5
+539,15,Sogndal Airport,533069998-3,FALSE,hflasby1v
+540,2,Pukatawagan Airport,334317295-2,TRUE,aezzellt
+541,9,Toledo Express Airport,168213640-X,TRUE,mgregoraceo
+542,19,Lauriston Airport,316181176-3,FALSE,ariddles24
+543,11,Parintins Airport,836117612-8,TRUE,smccooked
+544,9,Piešťany Airport,141494274-5,TRUE,mgregoraceo
+545,4,Aramac Airport,783107569-0,FALSE,jtonner2
+546,15,Hamilton Airport,439412664-9,TRUE,hflasby1v
+547,3,Terrace Bay Airport,428163452-5,TRUE,msuthren6
+548,6,Poznań-Ławica Airport,476280227-1,TRUE,rblint5
+549,2,Ambriz Airport,861791179-4,TRUE,aezzellt
+550,14,King Abdulaziz Air Base,423331771-X,FALSE,itubridy17
+551,3,Moshi Airport,215383666-2,TRUE,msuthren6
+552,16,Licenciado Adolfo Lopez Mateos International Airport,850965536-7,TRUE,cmeir1
+553,14,Northern Maine Regional Airport at Presque Isle,285054429-9,FALSE,itubridy17
+554,10,Zorg en Hoop Airport,948209040-3,FALSE,sbalaisotf
+555,10,Andøya Airport,295906549-2,TRUE,sbalaisotf
+556,17,Chelinda Malawi Airport,432390252-2,FALSE,iiskow14
+557,12,Jeju International Airport,393542475-2,FALSE,gmacgaughy4
+558,17,Municipal de Linares Airport,321531976-4,FALSE,iiskow14
+559,10,Needles Airport,094840148-6,FALSE,sbalaisotf
+560,17,Huacaraje Airport,192878580-8,TRUE,iiskow14
+561,13,Noonkanbah Airport,173168037-6,TRUE,bgariff3
+562,3,Swakopmund Airport,448095517-8,FALSE,msuthren6
+563,3,Lilongwe International Airport,979505054-0,FALSE,msuthren6
+564,13,Mar de Cortés International Airport,994211154-9,FALSE,bgariff3
+565,1,Johan Adolf Pengel International Airport,466842749-7,TRUE,ramorta
+566,1,Tata Airport,881202023-2,FALSE,ramorta
+567,7,Guarani International Airport,296597198-X,TRUE,jfreebornn
+568,2,Crater Lake-Klamath Regional Airport,985351389-7,FALSE,aezzellt
+569,16,Umberto Modiano Airport,170092545-8,FALSE,cmeir1
+570,20,Guiglo Airport,869704406-5,TRUE,rvickerstaffb
+571,8,Gwinnett County Briscoe Field,076581554-0,FALSE,ngilderoyy
+572,20,Palonegro Airport,066594783-6,TRUE,rvickerstaffb
+573,8,Reykjahlíð Airport,592030910-5,TRUE,ngilderoyy
+574,20,Hambantota Seaplane Base,277113269-9,TRUE,rvickerstaffb
+575,18,Gimhae International Airport,320769854-9,TRUE,kbrandi0
+576,3,Diosdado Macapagal International Airport,925145832-4,TRUE,msuthren6
+577,4,Moses Kilangin Airport,684151068-2,TRUE,jtonner2
+578,12,Wanuma Airport,415165520-4,TRUE,gmacgaughy4
+579,4,Naracoorte Airport,240407626-4,FALSE,jtonner2
+580,15,N'Délé Airport,920775952-7,TRUE,hflasby1v
+581,3,Baudette International Airport,397852160-1,FALSE,msuthren6
+582,9,Sligo Airport,753303597-6,FALSE,mgregoraceo
+583,6,Ranger Municipal Airport,853392847-5,TRUE,rblint5
+584,6,Aktobe Airport,930281641-9,FALSE,rblint5
+585,14,Holešov Airport,935128407-7,FALSE,itubridy17
+586,8,Namudi Airport,018565835-0,TRUE,ngilderoyy
+587,13,Ama Airport,347710820-5,FALSE,bgariff3
+588,15,Homestead ARB Airport,515043379-9,FALSE,hflasby1v
+589,12,Gorno-Altaysk Airport,597616196-0,TRUE,gmacgaughy4
+590,17,Sharurah Airport,387317698-X,TRUE,iiskow14
+591,3,Araraquara Airport,329310603-X,TRUE,msuthren6
+592,7,Nanyang Jiangying Airport,371789271-1,FALSE,jfreebornn
+593,11,Malta Airport,106366416-0,TRUE,smccooked
+594,3,Penzance Heliport,955014588-3,FALSE,msuthren6
+595,15,Brochet Airport,918149575-7,TRUE,hflasby1v
+596,17,Gangaw Airport,698526902-8,TRUE,iiskow14
+597,4,Murmansk Airport,232606481-X,FALSE,jtonner2
+598,13,John Glenn Columbus International Airport,303288720-8,TRUE,bgariff3
+599,12,Muzaffarabad Airport,160744947-1,TRUE,gmacgaughy4
+600,4,"Szczecin-Goleniów ""Solidarność"" Airport",580231398-6,TRUE,jtonner2

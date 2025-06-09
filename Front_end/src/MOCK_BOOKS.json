@@ -1,0 +1,21 @@
+[
+    {
+      "bookId": "1",
+      "title": "Book One",
+      "author": "Author A",
+      "licenseOrderNo": "1"
+    },
+    {
+      "bookId": "2",
+      "title": "Book Two",
+      "author": "Author B",
+      "licenseOrderNo": "2"
+    },
+    {
+      "bookId": "3",
+      "title": "Book Three",
+      "author": "Author C",
+      "licenseOrderNo": "3"
+    }
+  ]
+  
